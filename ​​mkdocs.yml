@@ -1,1 +1,7 @@
+site_name: Полупроводники
+site_url: https://okrasilnikova.github.io/site/
+nav:
+  - index.md
+  - page1.md
+  - page2.md
 

@@ -1,0 +1,10 @@
+site_name: base
+site_url: https://okrasilnikova.github.io/site/
+theme:
+  name: material
+
+  markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  

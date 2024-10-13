@@ -2,7 +2,8 @@ site_name: base
 site_url: https://okrasilnikova.github.io/site/
 theme:
   name: material
-
+  palette:
+    primary: teal
   markdown_extensions:
   - admonition
   - pymdownx.details

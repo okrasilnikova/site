@@ -9,4 +9,4 @@ theme:
   - pymdownx.details
   - pymdownx.superfences
 icon:
-    logo: material/memory  
+    logo: material-memory  

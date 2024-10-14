@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome","text":""},{"location":"#111111","title":"111111","text":""},{"location":"page1/","title":"Page1","text":"<ul> <li>list</li> <li>list2 \u041f\u043e\u0440\u0442\u0430\u043b \u044d\u0442\u043e \u0431\u0430\u0437\u0430!</li> </ul>"}]}

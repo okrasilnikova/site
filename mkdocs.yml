@@ -4,6 +4,7 @@ theme:
   name: material
   palette:
     primary: blue grey
+    accent: amber
   markdown_extensions:
   - admonition
   - pymdownx.details

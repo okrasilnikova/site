@@ -3,7 +3,8 @@ site_url: https://okrasilnikova.github.io/site/
 theme:
   name: material
   palette:
-    primary: teal
+    primary: blue grey
+    accent: amber
   markdown_extensions:
   - admonition
   - pymdownx.details
